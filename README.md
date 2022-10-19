@@ -61,6 +61,14 @@ Download the project and unzip
   unzip PythonApp-Docker.zip
 ```
 
+Alternative, clone the project
+
+```bash
+  mkdir app/
+  cd app/
+  git clone <repository>
+```
+
 Go to the project directory and build image
 
 ```bash

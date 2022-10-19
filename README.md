@@ -44,7 +44,7 @@ Installs all libraries listed in requirements.txt
 Start python application (app.py) in current folder
 ## Authors
 
-- [@jmandawi](https://www.linkedin.com/in/jeffandawi/)
+- [@jmandawi](https://github.com/jmtandawi)
 ## Environment Variables
 
 Dockerfile contains the following environment variables:

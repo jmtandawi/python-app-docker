@@ -76,11 +76,13 @@ Go to the project directory and build image
   docker build .
 ```
 
-Run container
+Run container and check if container is running
 
 ```bash
   docker compose up
+  docker ps -a
 ```
+
 ## Deployment
 
 Check website
